@@ -2,3 +2,4 @@ this is to practive
 git revert  to verify 
 git revert is used to make changes to the repository of teh commit history 
 This line will be reverted
+adding line 2 for revert the revert
